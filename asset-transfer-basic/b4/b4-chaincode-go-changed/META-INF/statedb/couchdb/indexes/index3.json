@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["DocType","Owner","Status","Bid Time"]
+        },
+        "ddoc":"indexUserAndBidTimeDoc",
+        "name":"indexUserAndBidTime",
+        "type":"json"
+
+}

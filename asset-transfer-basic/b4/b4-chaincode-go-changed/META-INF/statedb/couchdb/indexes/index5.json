@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["DocType","Producer","Generated Time"]
+        },
+        "ddoc":"indexUserAndGeneratedTimeDoc",
+        "name":"indexUserAndGeneratedTime",
+        "type":"json"
+
+}
