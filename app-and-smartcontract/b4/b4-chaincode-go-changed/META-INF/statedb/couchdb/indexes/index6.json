@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["DocType","Generated Time"]
+        },
+        "ddoc":"indexTimeDoc",
+        "name":"indexTime",
+        "type":"json"
+
+}

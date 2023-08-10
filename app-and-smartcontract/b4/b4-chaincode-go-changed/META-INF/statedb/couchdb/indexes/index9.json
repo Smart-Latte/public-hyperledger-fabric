@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["DocType","EnergyID","Bid Price"]
+        },
+        "ddoc":"indexBidOkDoc",
+        "name":"indexBidOk",
+        "type":"json"
+
+}

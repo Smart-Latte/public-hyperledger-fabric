@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["Bid Time","DocType","Status","EnergyID"]
+        },
+        "ddoc":"indexAuctionEndDoc",
+        "name":"indexAuctionEnd",
+        "type":"json"
+
+}

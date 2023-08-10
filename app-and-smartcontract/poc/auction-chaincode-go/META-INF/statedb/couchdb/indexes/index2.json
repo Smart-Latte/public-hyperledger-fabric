@@ -1,0 +1,9 @@
+{
+    "index":{
+        "fields":["DocType","Status", "Latitude", "Longitude"]
+        },
+        "ddoc":"indexLocationDoc",
+        "name":"indexLocation",
+        "type":"json"
+
+}

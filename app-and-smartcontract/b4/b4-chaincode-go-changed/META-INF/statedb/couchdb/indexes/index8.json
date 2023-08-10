@@ -1,0 +1,9 @@
+{
+    "index":
+        {"fields":["Bid Time","DocType","Status"]
+        },
+        "ddoc":"indexBidResultDoc",
+        "name":"indexBidResult",
+        "type":"json"
+
+}
